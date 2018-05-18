@@ -20,7 +20,7 @@ public class Hospede {
     //hospede possui um contato
     private Contato contato;
 
-    //hospede possui um arto
+    //hospede possui um quarto
     private Quarto quarto;
 
     //hospede possui uma lista de dependentes

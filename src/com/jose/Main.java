@@ -1,9 +1,9 @@
 package com.jose;
 
-import model.Contato;
-import model.Dependente;
-import model.Hospede;
-import model.Quarto;
+import com.jose.model.Contato;
+import com.jose.model.Dependente;
+import com.jose.model.Hospede;
+import com.jose.model.Quarto;
 
 import java.util.Date;
 import java.util.GregorianCalendar;

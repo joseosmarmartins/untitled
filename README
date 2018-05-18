@@ -1,0 +1,3 @@
+-no diretorio com.jose existe uma classe Main, ela que sera executada, coloquei-a para chamar o metodo de novo hospede;
+-no diretorio model possui as classes de modelagem, onde esta toda a modelagem da aplicaçao e onde deve ser aplicada a regra de negocio ainda nao implementada
+-no diretorio controller existe um controllerAction, um controlador para as açoes das telas, possivelmente sera chamado pelo servlet(ainda nao implementado);

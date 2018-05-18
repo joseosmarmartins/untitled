@@ -1,4 +1,4 @@
-package controller;
+package com.jose.controller;
 
 public class ControllerAction {
 

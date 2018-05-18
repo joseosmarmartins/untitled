@@ -1,6 +1,4 @@
-package model;
-
-import java.util.Date;
+package com.jose.model;
 
 public class Contato {
 
